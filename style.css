@@ -1,0 +1,39 @@
+#title
+{
+    font-size: 60px;
+color: white;
+font-family: 'Raleway', sans-serif;
+margin-right: 950px;
+margin-left: 50px;
+
+}
+
+#text{
+    font-size: 20px;
+    color: #BDBDBD;
+    font-family: 'Raleway', sans-serif;
+    margin-right: 950px;
+    margin-left: 50px;
+}
+
+button{
+    border-radius: 15px;
+    border-width: 0;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: #2B892E;
+    margin-left: 50px;
+
+}
+
+img{
+    margin-left: 50px;
+    width: 60%;
+    height: auto;
+}
+
+
+body{
+    background-color: #070606;
+}
